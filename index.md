@@ -1,4 +1,4 @@
-## Welcome to This Sample Webpage
+# Welcome to This Sample Webpage
 
 ### Markdown is used to format this webpage
 
